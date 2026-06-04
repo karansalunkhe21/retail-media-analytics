@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/clean/*.csv
+exports/*.csv
+*.parquet
+__pycache__/
+.DS_Store
